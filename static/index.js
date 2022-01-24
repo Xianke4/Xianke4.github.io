@@ -342,7 +342,7 @@ function shareText(score) {
     }
     SubmitResults();
     if (score <= 49) return '张某人和郑某人在笑';
-    if (score <= 99) return '吃掉的是脂肪d(ŐдŐ๑)';
+    if (score <= 99) return '吃，吃大口的';
     if (score <= 149) return '可以的啊';
     if (score <= 199) return '您';
     return '人？';
